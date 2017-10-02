@@ -1,0 +1,9 @@
+[submodule "x265"]
+	path = x265
+	url = https://github.com/videolan/x265
+[submodule "libvpx"]
+	path = libvpx
+	url = https://github.com/webmproject/libvpx
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = https://github.com/FFmpeg/FFmpeg
