@@ -65,6 +65,7 @@ args=(
 
     # Activate OpenSSL for https
     --enable-openssl
+    --enable-nonfree # required to enable openssl
 )
 
 cd "$ROOT/ffmpeg"
