@@ -84,4 +84,4 @@ make install
 make distclean
 hash -r
 
-tar -czvf "./ffmpeg-build-lambda.tar.gz" -C $HOME/bin/ .
+tar -czvf "${ROOT}/ffmpeg-build-lambda.tar.gz" -C $HOME/bin/ .
